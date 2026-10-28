@@ -55,6 +55,8 @@ Expected Graduation: 2030
 
 ### Product Building Certificate
 [Dream Product Building Certificate](https://github.com/aditia-droid/Certificates/blob/main/Anakappalli_Aditi_Certificate.pdf)
+### Basics of Python
+[Python Certification](https://github.com/aditia-droid/Certificates/blob/main/Aditi_CR641_certificate.pdf)
 
 ## Leadership & Activities
 
