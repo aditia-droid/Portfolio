@@ -39,7 +39,7 @@ Key Features:
 
 ### Personal Portfolio Website
 
-A responsive portfolio website built using Python, Flask, HTML, and CSS.
+A portfolio website built using Flask, HTML, and CSS.
 
 ## Education
 
@@ -53,21 +53,8 @@ Expected Graduation: 2030
 ### Data Science and AI
 [IIT Madras School Connect Programme](https://github.com/aditia-droid/Certificates/blob/main/IITM%20DSAI%20Certificate.jpg)
 
-### Dream Product Building
-Made in 3D Seed the Future Entrepreneurs Programme
-
-## Resume
-
-Download Resume:
-[Resume]
-
-## Certificate Downloads
-
-### IIT Madras Certificate
-[IIT Madras Certificate]
-
-### Dream Product Building Certificate
-[Dream Product Building Certificate]
+### Product Building Certificate
+[Dream Product Building Certificate](https://github.com/aditia-droid/Certificates/blob/main/Anakappalli_Aditi_Certificate.pdf)
 
 ## Leadership & Activities
 
