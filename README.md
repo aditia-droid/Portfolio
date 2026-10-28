@@ -51,7 +51,7 @@ Expected Graduation: 2030
 ## Certifications
 
 ### Data Science and AI
-IIT Madras School Connect Programme
+[IIT Madras School Connect Programme](https://github.com/aditia-droid/Certificates/blob/main/IITM%20DSAI%20Certificate.jpg)
 
 ### Dream Product Building
 Made in 3D Seed the Future Entrepreneurs Programme
