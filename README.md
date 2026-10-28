@@ -27,7 +27,7 @@ https://github.com/aditia-droid
 
 ## Featured Projects
 
-### CardioPolymer
+### PolyCardio-Multidisciplinary 
 
 A software platform for blood-polymer compatibility analysis and thrombosis screening.
 
@@ -37,9 +37,9 @@ Key Features:
 - Blood compatibility analysis
 - Biomedical research applications
 
-### Personal Portfolio Website
+### Personal Portfolio File
 
-A portfolio website built using Flask, HTML, and CSS.
+A portfolio built using Flask, HTML, and CSS.
 
 ## Education
 
